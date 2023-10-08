@@ -1,0 +1,6 @@
+Recipe_FR = {
+Recipe_Make_Sterilized_Bandage = "Fabriquer un Bandage Stérilisé",
+Recipe_Make_Sterilized_Rag = "Fabriquer un Chiffon Stérilisé",
+Recipe_Make_Toy = "Fabriquer un Jouet",
+Recipe_Make_Toys = "Fabriquer des Jouets",
+}
